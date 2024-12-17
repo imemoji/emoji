@@ -16,12 +16,7 @@ People
 
 ► /play secret► /play trombone► /play crickets► /play rimshot► /play vuvuzela► /play tmyk► /play live► /play drama► /play yeah► /play greatjob► /play pushit► /play nyan► /play tada► /play ohmy► /play bueller► /play ohyeah► /play 56k► /play dangerzone► /play horn► /play horror► /play loggins► /play yodel► /play sax► /play noooo► /play heygirl► /play inconceivable► /play deeper► /play whoomp► /play clowntown► /play what► /play bezos► /play trololo► /play makeitso► /play sexyback► /play bell► /play danielsan► /play greyjoy► /play story► /play dadgummit► /play rollout► /play cottoneyejoe► /play rumble► /play guarantee► /play unix► /play letitgo
 
-This page was created by Arvid Andersson / @arvid_a at Oktavilla. Source code is available on GitHub.
 
-❤ View all the super awesome people that have contributed to this page on the GitHub contributors page.
-
-✔ Emoji-cheat-sheet.com is not affiliated with 37signals, LLC. or GitHub Inc. in any way.
-
-♺ Built using bits from zClip, SubtlePatterns, jnotify, and list.js.
+We also made a android version of custom emoji with example usage.
 
 Fork me on GitHub
